@@ -1,1 +1,1 @@
-# Trabalho-Eletr-nica-para-Computa-o
+# Trabalho-Eletronica-para-Computacao
